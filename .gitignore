@@ -1,0 +1,15 @@
+# API 配置（含 Key，不要上传）
+lyc_config.json
+lyc_history.json
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 源素材（体积大 + 版权）
+刘永昌老师讲课ppt/
+课本提取/
+
+# 系统文件
+Thumbs.db
+.DS_Store
